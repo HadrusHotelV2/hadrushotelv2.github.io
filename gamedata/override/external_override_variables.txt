@@ -1,4 +1,4 @@
-ads.domain=https://hadrushotelv2.github.io
+ads.domain=http://hadrus.sytes.net
 seasonalcurrencyindicator.currency=103
 seasonalcurrencyindicator.enabled=false
 seasonalcurrencyindicator.page=activitypoints
