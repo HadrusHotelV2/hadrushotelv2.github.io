@@ -166,7 +166,7 @@ hotel.teaser=
 hotelview.banner.url=https://www.habbo.com.br/supersecret
 identityTracking.enabled=true
 identityinformationtool.url=httpss://theallseeingeye.sulake.com/ase/habbo/br/housekeeping/intra/hobba/identity_log.action?identityId=
-image.library.badgepart.url=https://hadrushotelv2.github.io/c_images/Badgeparts/
+image.library.badgepart.url=http://hadrus.systes.net/c_images/Badgeparts/
 image.library.catalogue.url=https://hadrushotelv2.github.io/c_images/catalogue/
 image.library.playlist.url=https://hadrushotelv2.github.io/c_images/playlist/
 image.library.questing.url=https://hadrushotelv2.github.io/c_images/Quests/
