@@ -1,0 +1,57 @@
+wulles=wulles
+sirio=sirio
+
+notification.hotel.event.linkTitle=Ir a la Sala
+notification.hotel.event.linkUrl=event:navigator/goto/%ROOMID%
+notification.hotel.event.message=<b>%USERNAME%</b> está celebrando un evento ahora.<br>¡Y puedes ganar varios premios!<br><br><i>El evento será: %MESSAGE%</i></b><br><br>¡Te esperamos allí!
+notification.hotel.event.title=Nuevo Evento
+notification.hotel.event.image=${url.prefix}/c_images/notifications/eventswulles.png
+
+arcturus=arcturus
+habbo=habbo
+
+infostand.button.savebranding=Guardar
+notifications.motd.title=Mensaje para ti
+help.cfh.reason.sex_and_pii=Contenido Sexual sexual
+help.cfh.reason.trolling=Conducta Trool
+help.cfh.reason.interruption=Interrumpir el juego
+help.cfh.reason.room=Comportamiento Violente
+help.cfh.reason.help=Ayuda
+help.cfh.topic.7=Links inapropriados
+navigator.flatcategory.global.TRADE=Cambios
+navigator.flatcategory.global.RECOMMENDED=Recomendado para ti
+navigator.flatcategory.global.HLIFE=Habbo Vida
+navigator.flatcategory.global.NEWVI=Nuevo
+navigator.flatcategory.global.BC=Builders Club
+navigator.flatcategory.global.BUILDING=Construcción y Decoración
+navigator.flatcategory.global.CHAT=Chat y discusiones
+navigator.flatcategory.global.FANSITE=Fansites
+navigator.flatcategory.global.GAMES=Habbo Juegos
+navigator.flatcategory.global.HELP=Centro de Ayuda
+navigator.flatcategory.global.LIFE=Habbo Vida
+navigator.flatcategory.global.OFFICIAL=Nuevo
+navigator.flatcategory.global.PARTY=Fiesta
+navigator.flatcategory.global.PERSONAL=Espacio Personal
+navigator.flatcategory.global.REVIEWS=Habbo Reviews
+navigator.flatcategory.global.TRADING=Cambios
+
+badge_name_DJ=¡Placa Oficial DJ HADRUS!.
+badge_desc_DJ=Solo para djs del hotel.
+badge_name_VIS=¡Grupo Vistimas!.
+badge_desc_VIS=Solo para miembros del grupo.
+badge_name_HADCEO=Dueño de Hadrus.
+badge_desc_HADCEO=Chief Executive Officer Hadrus.
+badge_name_HDTEC=Developer de Hadrus.
+badge_desc_HDTEC=Actualizando...
+badge_name_HDPUB=Publicista Hadrus.
+badge_desc_HDPUB=Encargad@s de llevar la publicidad de Hadrus al lugar más oscuro.
+badge_name_HDADM=Administrador Hadrus.
+badge_desc_HDADM=Encargad@s de administrar Hadrus.
+badge_name_HDCEO=CEO Hadrus.
+badge_desc_HDCEO=Dueño de Hadrus.
+badge_name_HDMOD=MOD Hadrus.
+badge_desc_HDMOD=Encargad@s de llevar la seguridad de Hadrus.
+badge_name_HDGM=Game Master Hadrus.
+badge_desc_HDGM=Encargad@s de la creación de diversos juegos en Hadrus.
+badge_name_HDJPUB=Encargado de Publicidad Hadrus.
+badge_desc_HDJPUB=Encargad@s de los publicistas de Hadrus.
