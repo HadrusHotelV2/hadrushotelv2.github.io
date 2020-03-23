@@ -1,5 +1,5 @@
 activity.point.display.enabled=true
-ads.domain=https://www.hadrushotel.com/ms-sw
+ads.domain=https://www.hadrushotel.com/ms-swf
 app.review.triggers=purchase,respect
 app.review.url.android=
 navigator.thumbnail.url_base=https://www.hadrushotel.com/camera/thumbnails/
