@@ -2,8 +2,8 @@ activity.point.display.enabled=true
 ads.domain=https://hadrushotelv2.github.io
 app.review.triggers=purchase,respect
 app.review.url.android=
-navigator.thumbnail.url_base=https://wwww.hadrushotel.com/ms-swf/camera/thumbnails/
-stories.image_url_base=https://wwww.hadrushotel.com/ms-swf/camera/
+navigator.thumbnail.url_base=http://hadrus.sytes.net/ms-swf/camera/thumbnails/
+stories.image_url_base=http://hadrus.sytes.net/ms-swf/camera/
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=794866182
 avatar.editor.character.update.url=https://hadrushotelv2.github.io/profile/characterupdate
 avatar.editor.url=https://hadrushotelv2.github.io/profile
